@@ -1,6 +1,6 @@
 # flutter_dice
 
-A sample Flutter project demonastrating stateful widget with two dices.
+A sample Flutter project demonstrating stateful widget with two dices.
 
 ## Getting Started
 
