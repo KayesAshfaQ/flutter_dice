@@ -1,4 +1,4 @@
-# fultter_dice
+# flutter_dice
 
 A new Flutter project.
 
